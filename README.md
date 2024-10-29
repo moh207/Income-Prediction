@@ -7,7 +7,7 @@ We could make use of data provided and detect patterns in citizen demographics t
 
 Predicting customer income applications would include offering customized bundles and offers for different users (i.e. Premium packages for higher income customers and vice versa)
 
-Methodology![image](https://github.com/user-attachments/assets/a7f75c47-c332-460d-ab0d-02ff20f83ac3)
+# Methodology
 Problems faced with Data:
 Data had almost no outliers or missing data, however small challenges with data handling was:
 
