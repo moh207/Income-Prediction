@@ -1,4 +1,6 @@
-# Income-PredictionThis Dataset Consists of U.S citizens of different demographics with low income (less than 50k) and high income (more than 50k).
+# Income-Prediction
+
+This Dataset Consists of U.S citizens of different demographics with low income (less than 50k) and high income (more than 50k).
 
 Different demographic and social conditions affect citizens income,
 We could make use of data provided and detect patterns in citizen demographics to predict if their income will likely exceed 50k !
